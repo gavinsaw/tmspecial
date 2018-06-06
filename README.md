@@ -1,7 +1,7 @@
 # Campaign Microsite for Telekom Malaysia
 
-Staging
+### Staging
 
-URL - http://tmspecialdays.igndev.com/
-username: client
-password: 123qwe!@#
+- URL - http://tmspecialdays.igndev.com/
+- username: client
+- password: 123qwe!@#
