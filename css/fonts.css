@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'InterFace';
+    src: url('fonts/InterFaceRegular.eot');
+    src: url('fonts/InterFaceRegular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/InterFaceRegular.woff2') format('woff2'),
+        url('fonts/InterFaceRegular.woff') format('woff'),
+        url('fonts/InterFaceRegular.ttf') format('truetype'),
+        url('fonts/InterFaceRegular.svg#InterFaceRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'InterFace';
+    src: url('fonts/InterFaceBold.eot');
+    src: url('fonts/InterFaceBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/InterFaceBold.woff2') format('woff2'),
+        url('fonts/InterFaceBold.woff') format('woff'),
+        url('fonts/InterFaceBold.ttf') format('truetype'),
+        url('fonts/InterFaceBold.svg#InterFaceBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'InterFace';
+    src: url('fonts/InterFaceThin.eot');
+    src: url('fonts/InterFaceThin.eot?#iefix') format('embedded-opentype'),
+        url('fonts/InterFaceThin.woff2') format('woff2'),
+        url('fonts/InterFaceThin.woff') format('woff'),
+        url('fonts/InterFaceThin.ttf') format('truetype'),
+        url('fonts/InterFaceThin.svg#InterFace') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'InterFaceXBold';
+    src: url('fonts/InterFaceXBold.eot');
+    src: url('fonts/InterFaceXBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/InterFaceXBold.woff2') format('woff2'),
+        url('fonts/InterFaceXBold.woff') format('woff'),
+        url('fonts/InterFaceXBold.ttf') format('truetype'),
+        url('fonts/InterFaceXBold.svg#InterFaceXBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
